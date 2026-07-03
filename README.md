@@ -29,7 +29,7 @@ Zooms into the sandwich sub-segment to study competitive dynamics up close, usin
 
 ## 3. "Is There Room for More in the Food Industry?" — Weighted Scoring Model (WSM)
 
-![PowerBI](./images/Market_Strcture.png)
+![PowerBI](./images/Market_Structure.png)
 
 The centerpiece of the report: an interactive Weighted Scoring Model (WSM) — a Multi-Criteria Decision-Making (MCDM) method — that scores each segment on four dimensions: Revenue, Market Concentration, Unit Economics, and Growth.
 
