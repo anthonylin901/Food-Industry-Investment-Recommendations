@@ -7,7 +7,7 @@ Originally built as coursework for Creating Effective Data Visualizations at the
 
 ## 1. Overview — Market Landscape
 
-![PowerBI](images/Overview.png)
+![PowerBI](Images/Overview.png)
 
 Sets the scene for the entire industry: **$263,406M** in total 2024 sales across 100 chains, but -8.99% YoY, signaling an industry in contraction. With a median chain size of just **$808M** against a long tail of much larger players, the market is confirmed as highly fragmented.
 
@@ -18,7 +18,7 @@ Sets the scene for the entire industry: **$263,406M** in total 2024 sales across
 
 ## 2. "A Great Sandwich Chain Isn't Born, It's Breaded" — Competitive Deep-Dive
 
-![PowerBI](images/Investment_Insight.png)
+![PowerBI](Images/Investment_Insight.png)
 
 Zooms into the sandwich sub-segment to study competitive dynamics up close, using Firehouse Subs ($840M sales, +1% YoY vs. prior year) as the benchmark chain.
 
@@ -29,7 +29,7 @@ Zooms into the sandwich sub-segment to study competitive dynamics up close, usin
 
 ## 3. "Is There Room for More in the Food Industry?" — Weighted Scoring Model (WSM)
 
-![PowerBI](images/Market_Structure.png)
+![PowerBI](Images/Market_Structure.png)
 
 The centerpiece of the report: an interactive Weighted Scoring Model (WSM) — a Multi-Criteria Decision-Making (MCDM) method — that scores each segment on four dimensions: Revenue, Market Concentration, Unit Economics, and Growth.
 
